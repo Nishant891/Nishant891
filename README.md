@@ -9,7 +9,7 @@ In my [Personel Portfolio](https://nishant-app.vercel.app/) you can view some of
 * <img src="https://example.com/html5-logo.png" alt="HTML5" height="20"/> HTML5
 * <img src="https://example.com/css3-logo.png" alt="CSS3" height="20"/> CSS3
 * <img src="https://example.com/javascript-logo.png" alt="JavaScript" height="20"/> JavaScript
-* <img src="	https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" alt="ReactJS" height="20"/> ReactJS
+* <img src="https://logowik.com/content/uploads/images/react.jpg" alt="ReactJS" height="20"/> ReactJS
 * <img src="https://example.com/nextjs-logo.png" alt="NextJS" height="20"/> NextJS
 * <img src="https://example.com/tailwindcss-logo.png" alt="TailwindCSS" height="20"/> TailwindCSS
 * <img src="https://example.com/typescript-logo.png" alt="TypeScript" height="20"/> TypeScript

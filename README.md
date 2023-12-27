@@ -19,6 +19,7 @@ In my [Personel Portfolio](https://nishant-app.vercel.app/) you can view some of
 * <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" height="20"/>  MySQL
 * <img src="https://www.vhv.rs/dpng/d/145-1450243_mongodb-logo-png-transparent-png.png" alt="MongoDB" height="20"/>  MongoDB
 * <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/g/git-icon.svg" alt="Git" height="20"/>  Git
+* <img src="https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg" alt="Framer Motion" height="20"/>  Linux
 * <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" alt="Python" height="20"/>  Python
 * <img src="https://www.liblogo.com/img-logo/ja362j8d5-java-logo-java-logo-transparent-png-stickpng.png" alt="Java" height="20"/>  Java
 * <img src="https://logos-download.com/wp-content/uploads/2022/11/C_Logo-622x700.png" alt="C/C++" height="20"/>  C/C++

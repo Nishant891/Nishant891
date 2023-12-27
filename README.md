@@ -24,7 +24,7 @@ In my [Personel Portfolio](https://nishant-app.vercel.app/) you can view some of
 * <img src="https://logos-download.com/wp-content/uploads/2022/11/C_Logo-622x700.png" alt="C/C++" height="20"/>  C/C++
 * <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" height="20"/>  Socket.IO
 * <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Baboon.svg" alt="CodeMirror" height="20"/>  CodeMirror
-* <img src="https://www.logggos.club/logos/framer-motion.svg" alt="Framer Motion" height="20"/>  Framer Motion
+* <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" height="20"/>  Framer Motion
 
 
 

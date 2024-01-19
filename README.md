@@ -6,8 +6,7 @@ I have built Websites, Chatbots, Integrated Information Management System, Games
 In my [Personel Portfolio](https://nishant-app.vercel.app/) you can view some of my projects.
 
 ## My Tech Stack Includes:
-* <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="20"/>  HTML5
-* <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="20"/>  CSS3
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" height="20"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="20"/>
 * <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo.png" alt="JavaScript" height="20"/>  JavaScript
 * <img src="https://logowik.com/content/uploads/images/react.jpg" alt="ReactJS" height="20"/>  ReactJS
 * <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="NextJS" height="20"/>  NextJS

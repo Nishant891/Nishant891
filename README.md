@@ -9,7 +9,7 @@
 # Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/nishant-sharma-771653245//">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Badge"/>
   </a>
   <a href="https://nishant-app.vercel.app/">
     <img src="https://imgs.search.brave.com/lBrpOHxv0XJzoWpqV4MslqbrmTHjzwgY5onlZ1KviHk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzk5LzMxLzY4/LzM2MF9GXzk5MzE2/ODIwX0wwVXZ0SWhQ/cXZUYzVIckk3QUpO/MXV2U3N3ZWRZSWtq/LmpwZw" alt="Website Badge"/>

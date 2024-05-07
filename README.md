@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://nishant-app.vercel.app/">
-    <img src="https://imgs.search.brave.com/iNsTqWg4D7IxbEoD4qDdZmXpQEzIOu2jw8iu3n9OWhg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/c2hpZWxkcy5pby93/ZWJzaXRlLXVwLWRv/d24tZ3JlZW4tcmVk/L2h0dHBzL25hZXJl/ZW4uZ2l0aHViLmlv/LnN2Zw.svg" alt="Website Badge"/>
+    <img src="https://imgs.search.brave.com/lBrpOHxv0XJzoWpqV4MslqbrmTHjzwgY5onlZ1KviHk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzk5LzMxLzY4/LzM2MF9GXzk5MzE2/ODIwX0wwVXZ0SWhQ/cXZUYzVIckk3QUpO/MXV2U3N3ZWRZSWtq/LmpwZw" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/Nishant48945102">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,7 +23,7 @@
 <div>
 	<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="55" alt="Typescript">
 	<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="55" alt="React.js">
-	<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="55" alt="Next.js">
+	<img src="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" height="55" alt="Next.js">
 	<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="55" alt="Express.js">
 	<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="55" alt="Node.js">
 	<img src="https://imgs.search.brave.com/bVECprx4o3nuABplq1ZEJth1MKXGE6vS3R98bV03fko/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9raW5z/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzA0L2V4/cHJlc3MtMS5wbmc" height="55" alt="Express.js">

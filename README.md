@@ -25,7 +25,7 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="55" alt="Next.js">
 	<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="55" alt="Express.js">
 	<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="55" alt="Node.js">
-	<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="55" alt="Express.js">
+	<img src="https://imgs.search.brave.com/bVECprx4o3nuABplq1ZEJth1MKXGE6vS3R98bV03fko/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9raW5z/dGEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzA0L2V4/cHJlc3MtMS5wbmc" height="55" alt="Express.js">
 	<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="55" alt="MongoDB">
 	<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" height="55" alt="Socket.io">
 	<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="55" alt="C++">
@@ -33,6 +33,12 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="55" alt="MySQL">
 	<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="55" alt="npm">
 </div>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Nishant891>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Nishant891>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

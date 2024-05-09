@@ -6,6 +6,8 @@
 
 - I use `.ts` `.cpp` on a daily basis
 
+- Fun fact: npm is my package manager
+
 # Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/nishant-sharma-771653245//">
@@ -32,7 +34,7 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++">
 	<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python">
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="50" alt="MySQL">
-	<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" height="50" alt="npm">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
 
 ## &#x1f4c8; My GitHub Stats

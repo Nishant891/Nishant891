@@ -34,7 +34,7 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" alt="C++">
 	<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python">
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="50" alt="MySQL">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
 </div>
 
 ## &#x1f4c8; My GitHub Stats

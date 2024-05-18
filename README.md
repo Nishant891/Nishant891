@@ -39,13 +39,11 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical)
+
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nishant891)](https://git.io/streak-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical)
 
 
 

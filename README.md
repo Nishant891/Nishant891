@@ -4,19 +4,18 @@
 
 - **I am a A Programmer | MERN stack developer | C++ wizard**
 
+- Visit my [Portfolio website](https://nishant-app.vercel.app)
+
 - I use `.ts` `.cpp` on a daily basis
 
 
 # 🐬 Socials
-<div style="display: flex; gap: 2px;">
+<div>
   <a href="https://www.linkedin.com/in/nishant-sharma-771653245//">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://nishant-app.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="50" alt="Website Badge"/>
-  </a>
   <a href="https://twitter.com/Nishant48945102">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="50" alt="Twitter Badge"/>
+    <img src="https://imgs.search.brave.com/EPxrKnrufjEX2TLwoGQ59WUH-cjpbDZ4-Ma7QUxujNE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1wc2Qv/dHJhbnNwYXJlbnQt/d2hpdGUtYnJhbmQt/bmV3LXR3aXR0ZXIt/eC1sb2dvLWljb25f/MTEyOTYzNS02Lmpw/Zz9zaXplPTYyNiZl/eHQ9anBn" height="50" alt="Twitter Badge"/>
   </a>
 </div>
 

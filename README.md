@@ -1,12 +1,10 @@
 ![Black Technology LinkedIn Banner](https://github.com/Nishant891/ChatBot/assets/109356848/f2bf2609-bcfa-4c74-a045-2e2c52509638)
 
-# Hi there 👋 This is Nishant
+# Hi there 👋 My name is Nishant
 
-- **A Programmer | MERN stack | C++**
+- **I am a A Programmer | MERN stack developer | C++ wizard**
 
 - I use `.ts` `.cpp` on a daily basis
-
-- Fun fact: npm is my package manager
 
 # Socials
 <div id="badges">
@@ -37,12 +35,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
 </div>
 
-## &#x1f4c8; My GitHub Stats
-
+### Most used languages 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical)
 
+## &#x1f4c8; My GitHub Stats
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical)
 
+### My GitHub trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 

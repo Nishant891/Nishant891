@@ -46,8 +46,7 @@
 | ------------- | ------------- |
 
 # 🧑‍💻 My Current Project
- | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=Collaborator&theme=radial" alt="Nishant's current project" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=Collaborator&theme=radial" alt="Nishant's current project" /></a>
 
 # 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)

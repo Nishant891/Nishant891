@@ -8,15 +8,15 @@
 
 
 # 🐬 Socials
-<div id="badges">
+<div style="display: flex; gap: 2px;">
   <a href="https://www.linkedin.com/in/nishant-sharma-771653245//">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/>
   </a>
   <a href="https://nishant-app.vercel.app/">
-    <img src="https://imgs.search.brave.com/lBrpOHxv0XJzoWpqV4MslqbrmTHjzwgY5onlZ1KviHk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzk5LzMxLzY4/LzM2MF9GXzk5MzE2/ODIwX0wwVXZ0SWhQ/cXZUYzVIckk3QUpO/MXV2U3N3ZWRZSWtq/LmpwZw" height="30" alt="Website Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="50" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/Nishant48945102">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="50" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -35,29 +35,19 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="50" alt="Python">
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="50" alt="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
-</div>
+        
+ # &#x1f4c8;  My GitHub Stats      
+ 
+ | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&include_all_commits=true&theme=radical" alt="Nishant's github stats"/></a> |
+| ------------- | ------------- |
 
+# 🔝 Top Repositories
+ | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=CodingFlux&theme=radial" alt="Nishant's top repo" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=GameOfLife&theme=radial"  alt="Nishant's top repo"/></a> |
+| ------------- | ------------- |
 
-## 👨‍💻 Most used languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical)
+# 🧑‍💻 My Current Project
+ | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=Collaborator&theme=radial" alt="Nishant's current project" /></a> |
+| ------------- | ------------- |
 
-
-## &#x1f4c8; My GitHub Stats
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical)
-
-
-## 🏆 My GitHub trophies
+# 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
-
-
-
-
-
-
-
-

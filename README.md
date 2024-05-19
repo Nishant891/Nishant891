@@ -6,6 +6,7 @@
 
 - I use `.ts` `.cpp` on a daily basis
 
+
 # Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/nishant-sharma-771653245//">
@@ -18,6 +19,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> ToolBox
 <div>
@@ -35,14 +37,20 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
 </div>
 
-### Most used languages 👨‍💻
+
+## Most used languages 👨‍💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical)
 
-## &#x1f4c8; My GitHub Stats
+
+## My GitHub Stats &#x1f4c8;
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical)
 
-### My GitHub trophies 🏆
+
+## My GitHub trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 

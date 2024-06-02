@@ -36,7 +36,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
         
  # &#x1f4c8;  My GitHub Stats      
- 
  | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&include_all_commits=true&theme=radical" alt="Nishant's github stats"/></a> |
 | ------------- | ------------- |
 
@@ -45,7 +44,8 @@
 | ------------- | ------------- |
 
 # 🧑‍💻 My Current Project
- <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=Collaborator&theme=radial" alt="Nishant's current project" /></a>
+ | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=Collaborator&theme=radial" alt="Nishant's current project" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant891&repo=DNS-Manager&theme=radial" alt="Nishant's current project" /></a> |
+| ------------- | ------------- |
 
 # 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)

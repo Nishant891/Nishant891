@@ -1,5 +1,5 @@
 ![Black Technology LinkedIn Banner](https://github.com/Nishant891/ChatBot/assets/109356848/f2bf2609-bcfa-4c74-a045-2e2c52509638)
-https://www.loom.com/share/7d02624fc6e94340921cc986b5aee711?sid=dcbf59c5-0420-42ce-8142-83f98f5ede70
+
 # Hi there 👋 I am Nishant
 
 - **I am  A Programmer | MERN stack developer | C++ wizard**
@@ -19,9 +19,9 @@ https://www.loom.com/share/7d02624fc6e94340921cc986b5aee711?sid=dcbf59c5-0420-42
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,next,nodejs,expressjs,mysql,mongo,tailwind,cpp,docker,npm&theme=light)](https://skillicons.dev)
         
  # &#x1f4c8;  My GitHub Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=	Nishant891&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant891&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>
 
-<a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&include_all_commits=true&theme=radical" alt="Nishant's github stats"/></a>
+<a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical" alt="Nishant's github stats"/></a>
 | ------------- | ------------- |
 
 # 🏆 My GitHub Trophies

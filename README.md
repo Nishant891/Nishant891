@@ -11,7 +11,7 @@
 
 
 # 🐬 Socials
-<a href="https://www.linkedin.com/in/nishant-sharma-771653245//"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/Nishant48945102"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968830.png" height="50" alt="Twitter Badge"/></a> | <a href="https://nishant-app.vercel.app"><img src="https://cdn-icons-png.flaticon.com/256/8202/8202952.png" height="50" alt="Website"/></a> <a href="https://nishantblogs5.wordpress.com"><img src="https://cdn-icons-png.flaticon.com/256/6114/6114045.png" height="50" alt="Blogs"/> </a>
+<a href="https://www.linkedin.com/in/nishant-sharma-771653245//"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/Nishant48945102"><img src="https://cdn-icons-png.flaticon.com/256/14417/14417709.png" height="50" alt="Twitter Badge"/></a> | <a href="https://nishant-app.vercel.app"><img src="https://cdn-icons-png.flaticon.com/256/8202/8202952.png" height="50" alt="Website"/></a> <a href="https://nishantblogs5.wordpress.com"><img src="https://cdn-icons-png.flaticon.com/256/6114/6114045.png" height="50" alt="Blogs"/> </a>
 | ------------- | ------------- |
 
 

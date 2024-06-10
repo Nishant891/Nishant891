@@ -16,7 +16,7 @@
 
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> ToolBox
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,nodejs,expressjs,mysql,mongo,tailwind,cpp,docker,npm&theme=light)](https://github.com/Nishant891)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,nodejs,expressjs,mysql,mongo,tailwind,cpp,python,docker,npm&theme=light)](https://github.com/Nishant891)
         
  # &#x1f4c8;  My GitHub Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant891&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>

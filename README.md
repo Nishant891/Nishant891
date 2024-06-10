@@ -35,7 +35,8 @@
 	<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" height="50" alt="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
         
- # &#x1f4c8;  My GitHub Stats      
+ # &#x1f4c8;  My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Nishant891&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
  | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&include_all_commits=true&theme=radical" alt="Nishant's github stats"/></a> |
 | ------------- | ------------- |
 

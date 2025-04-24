@@ -1,6 +1,6 @@
 ![Black Technology LinkedIn Banner](https://github.com/Nishant891/ChatBot/assets/109356848/f2bf2609-bcfa-4c74-a045-2e2c52509638)
 
-![Image](https://github.com/user-attachments/assets/0c81909a-7a03-4950-8f20-4ac27615d527)
+![Image](https://github.com/user-attachments/assets/9902a01e-3736-4e4a-969f-67b2c417a26c)
 
 # Hi there 👋 I am Nishant
 

@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/244c0e31-2a39-478c-a2ae-50d345f8602d)![Image](https://github.com/user-attachments/assets/9902a01e-3736-4e4a-969f-67b2c417a26c)
-
 # Hi there 👋 I am Nishant
 
 - **I am an Engineer. I build products, solve problems and think creative.**

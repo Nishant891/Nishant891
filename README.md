@@ -7,7 +7,7 @@
 - I use `.ts` `.cpp` and `.py` on a daily basis
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> ToolBox
-[![My Skills](https://skillicons.dev/icons?i=c++,typescript,python,arch,wasm,next,expressjs,postgres,mongo,redis,docker,git,postman,bots&theme=light)](https://github.com/Nishant891)
+[![My Skills](https://skillicons.dev/icons?i=cpp,typescript,python,arch,wasm,next,expressjs,postgres,mongo,redis,docker,git,postman,bots&theme=light)](https://github.com/Nishant891)
         
  # &#x1f4c8;  My GitHub Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nishant891&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="Nishant891" width="100%" /> </p>

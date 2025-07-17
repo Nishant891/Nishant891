@@ -5,13 +5,6 @@
 - Visit my [Website](https://dematrix.vercel.app)
 
 - I use `.ts` `.cpp` and `.py` on a daily basis
-- [![wakatime](https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg)](https://wakatime.com/@018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b)
-
-
-# 🐬 Socials
-<a href="https://www.linkedin.com/in/nishant-sharma-771653245//"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/Nishant48945102"><img src="https://cdn-icons-png.flaticon.com/256/14417/14417709.png" height="50" alt="Twitter Badge"/></a> | <a href="https://dematrix.vercel.app"><img src="https://cdn-icons-png.flaticon.com/256/8202/8202952.png" height="50" alt="Website"/></a> <a href="https://medium.com/@nishant19072003"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zSJ0IsIZvB0_OEwqgohcOjbHSrcJ9EOa_g&s" height="50" alt="Medium"/> </a>
-| ------------- | ------------- |
-
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> ToolBox
 [![My Skills](https://skillicons.dev/icons?i=c++,typescript,python,arch,wasm,next,expressjs,postgres,mongo,redis,docker,git,postman,bots&theme=light)](https://github.com/Nishant891)

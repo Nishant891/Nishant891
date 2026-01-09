@@ -9,13 +9,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> ToolBox
 [![My Skills](https://skillicons.dev/icons?i=cpp,linux,wasm,python,gcp,docker,git,typescript,next,mongo,expressjs,postgres,prisma,postman&theme=light)](https://github.com/Nishant891)
         
- # &#x1f4c8;  My GitHub Stats
-
-<a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant891&layout=compact&show_icons=true&theme=radical" alt="Nishant's github stats" /></a> | <a href="https://github.com/Nishant891/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant891&show_icons=true&theme=radical&include_all_commits=true" alt="Nishant's github stats"/></a>
-| ------------- | ------------- |
-
-# 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nishant891&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 

@@ -13,10 +13,7 @@
 - [producthunt](https://www.producthunt.com/@dematrix)
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> toolbox
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,python,fastapi,docker,kubernetes,git,githubactions,javascript,astro,postgres,wasm,cpp&theme=light)](https://github.com/Nishant891)
-        
-
-<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,python,fastapi,docker,kubernetes,git,githubactions,javascript,astro,nodejs,postgres,wasm,cpp&theme=light)](https://github.com/Nishant891)
 
 <h3 align="left">connect with me :)</h3>
 <p align="left">

@@ -12,10 +12,10 @@
 
 - [producthunt](https://www.producthunt.com/@dematrix)
 
-# <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> toolbox
+# toolbox
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,python,fastapi,docker,kubernetes,git,githubactions,javascript,astro,nodejs,postgres,wasm,cpp&theme=light)](https://github.com/Nishant891)
 
-<h3 align="left">connect with me :)</h3>
+# connect with me :)
 <p align="left">
 <a href="https://twitter.com/nishant48945102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant48945102" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-sharma-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-sharma-codes/" height="30" width="40" /></a>

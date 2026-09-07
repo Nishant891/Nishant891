@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-sharma-codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-sharma-codes/" height="30" width="40" /></a>
 <a href="https://medium.com/@nishant19072003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishant19072003" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@dematrix-ai-ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dematrix-ai-ed" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/nishant892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant892" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/nishant892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant892" height="38" width="40" /></a>
 </p>
 
 

@@ -1,16 +1,14 @@
 # hi there 👋 i am nishant
 
-- **i am an engineer. i build products, solve problems and think creative.**
- 
-- 🔭 i’m currently working on **ricing a powerful desktop environment**
+- **i build and maintain large-scale systems and the tools that keep them healthy.**
 
 - 🌱 i’m currently learning **go**
 
 - visit my [portfolio](https://dematrix.vercel.app)
 
-- [npm package](https://www.npmjs.com/package/jwt-authx)
+- published [npm package](https://www.npmjs.com/package/jwt-authx)
 
-- [producthunt](https://www.producthunt.com/@dematrix)
+- view my launches on [producthunt](https://www.producthunt.com/@dematrix)
 
 # toolbox
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,python,fastapi,docker,kubernetes,git,githubactions,javascript,astro,nodejs,postgres,wasm,cpp&theme=light)](https://github.com/Nishant891)
